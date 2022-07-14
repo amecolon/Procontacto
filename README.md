@@ -102,9 +102,9 @@ El método POST introduce los parámetros en la solicitud HTTP para el servidor.
 
 *JSON*
 
-Las siglas JSON se corresponden con ***JavaScript Object Notation***, presenta la información de una manera más legible para las personas. Se basa en un subconjunto concreto del lenguaje de programación JavaScript con la aplicación de una serie de pares de nombre y valor e, incluso, por una lista de valores en orden.
+  Las siglas JSON se corresponden con ***JavaScript Object Notation***, presenta la información de una manera más legible para las personas. Se basa en un subconjunto concreto del lenguaje de programación JavaScript con la aplicación de una serie de pares de nombre y valor e, incluso, por una lista de valores en orden.
 
-A nivel estructural, este protocolo de intercambio de datos se distingue por el uso de llaves. Además, cada nombre que se incluye en el formato va seguido de dos puntos. Si te fijas en elementos de la misma rama del árbol, te encontrarás con que todos están separados por una coma.
+  A nivel estructural, este protocolo de intercambio de datos se distingue por el uso de llaves. Además, cada nombre que se incluye en el formato va seguido de dos puntos. Si te fijas en elementos de la misma rama del árbol, te encontrarás con que todos están separados por una coma.
 
       { 
         "persons": [ 
@@ -125,9 +125,10 @@ A nivel estructural, este protocolo de intercambio de datos se distingue por el 
 
 
 *MXL*
-Una de las claves para el éxito de este formato es que su estándar se basa en texto, con el objetivo de ofrecer una representación adecuada de todo tipo de información estructurada, por ejemplo, en datos o documentos.
 
-El XML se basa en el uso de etiquetas. Estas pueden ser vacíos o tener contenido y otros elementos. Siempre se encuentran entre <> y se cierran con </>. En este estándar también se encuentran atributos, una herramienta muy eficaz para añadir propiedades a un elemento. Existe la posibilidad de que las etiquetas tengan uno o más de uno para complementar su valor.
+  Una de las claves para el éxito de este formato es que su estándar se basa en texto, con el objetivo de ofrecer una representación adecuada de todo tipo de información estructurada, por ejemplo, en datos o documentos.
+
+  El XML se basa en el uso de etiquetas. Estas pueden ser vacíos o tener contenido y otros elementos. Siempre se encuentran entre <> y se cierran con </>. En este estándar también se encuentran atributos, una herramienta muy eficaz para añadir propiedades a un elemento. Existe la posibilidad de que las etiquetas tengan uno o más de uno para complementar su valor.
 
       <xjson> 
         <object> 
@@ -159,9 +160,20 @@ El XML se basa en el uso de etiquetas. Estas pueden ser vacíos o tener contenid
       </xjson>
 
 
+## SOAP
+La comunicación en Internet se basa principalmente en protocolos como HTTP, HTTPS, FTP o, a otro nivel, TCP. Pero SOAP es esencial para los servicios web, interfaces a través de las cuales un dispositivo puede hacer uso del servicio de un servidor. Los buscadores, las tiendas en línea y otros muchos servicios en Internet funcionan a través de dichos servicios web, y SOAP es uno de los protocolos que lo hacen posible.
 
-Explicar brevemente el estándar SOAP
-Explicar brevemente el estándar REST Full
+SOAP posibilita la comunicación entre un cliente, como el navegador de Internet, y los servicios de un servidor. Para que esto sea posible, el cliente debe enviar una solicitud a la API. El framework de SOAP determina la forma que debe adoptar dicha solicitud. Dentro de esta definición de la solicitud también pueden incluirse datos específicos de la aplicación, lo que es un punto fuerte de SOAP. De esta forma, los servicios web pueden desplegar aplicaciones diferentes. Para que puedan utilizarse como servicios web sin necesidad de tener la misma sintaxis.
+
+<p align="CENTER">
+  <img src="https://user-images.githubusercontent.com/95835522/179086833-af143873-84df-4bfd-8462-9bc173cbcace.png" />
+</p>
+
+
+### RESTFUL
+
+Una API de REST, o API de RESTful, es una interfaz de programación de aplicaciones (API o API web) que se ajusta a los límites de la arquitectura REST y permite la interacción con los servicios web de RESTful. El informático Roy Fielding es el creador de la transferencia de estado representacional (REST).
+
 ¿Qué son los headers en un request? ¿Para qué se utiliza el key Content-type en un header?
 
 ## Ejercicio 3
