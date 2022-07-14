@@ -94,11 +94,72 @@ El método POST introduce los parámetros en la solicitud HTTP para el servidor.
 | Tipo de datos | Solo caracteres ASCII | Caracteres ASCII y datos binarios |
 | Longitud de datos | Limitado al máximo del URL (2048 caracteres) | Ilimitado |
 
+- **¿Qué verbo http utiliza el navegador cuando accedemos a una página?**
 
-¿Cómo se envía la data en un Get y cómo en un POST?
-¿Qué verbo http utiliza el navegador cuando accedemos a una página?
-Explicar brevemente qué son las estructuras de datos JSON y XML dando ejemplo de
-estructuras posibles.
+    Se utiliza el verbo GET
+
+### Estructuras de datos JSON y XML
+
+*JSON*
+
+Las siglas JSON se corresponden con ***JavaScript Object Notation***, presenta la información de una manera más legible para las personas. Se basa en un subconjunto concreto del lenguaje de programación JavaScript con la aplicación de una serie de pares de nombre y valor e, incluso, por una lista de valores en orden.
+
+A nivel estructural, este protocolo de intercambio de datos se distingue por el uso de llaves. Además, cada nombre que se incluye en el formato va seguido de dos puntos. Si te fijas en elementos de la misma rama del árbol, te encontrarás con que todos están separados por una coma.
+
+      { 
+        "persons": [ 
+          { 
+            "name": "Ford Prefect", 
+            "gender": "male" 
+          }, 
+          { 
+            "name": "Arthur Dent", 
+            "gender": "male" 
+          }, 
+          { 
+            "name": "Tricia McMillan", 
+            "gender": "female" 
+          }
+        ]
+      }
+
+
+*MXL*
+Una de las claves para el éxito de este formato es que su estándar se basa en texto, con el objetivo de ofrecer una representación adecuada de todo tipo de información estructurada, por ejemplo, en datos o documentos.
+
+El XML se basa en el uso de etiquetas. Estas pueden ser vacíos o tener contenido y otros elementos. Siempre se encuentran entre <> y se cierran con </>. En este estándar también se encuentran atributos, una herramienta muy eficaz para añadir propiedades a un elemento. Existe la posibilidad de que las etiquetas tengan uno o más de uno para complementar su valor.
+
+      <xjson> 
+        <object> 
+          <name>persons</name> 
+          <value> 
+            <array> 
+              <object> 
+                  <name>name</name> 
+                  <value>Ford Prefect</value> 
+                  <name>gender</name> 
+                  <value>male</value> 
+              </object> 
+              <object> 
+                  <name>name</name> 
+                  <value>Arthur 
+                  Dent</value> 
+                  <name>gender</name> 
+                  <value>male</value> 
+              </object> 
+              <object> 
+                  <name>name</name> 
+                  <value>Tricia McMillan</value> 
+                  <name>gender</name> 
+                  <value>female</value> 
+              </object> 
+            </array> 
+          </value> 
+        </object> 
+      </xjson>
+
+
+
 Explicar brevemente el estándar SOAP
 Explicar brevemente el estándar REST Full
 ¿Qué son los headers en un request? ¿Para qué se utiliza el key Content-type en un header?
