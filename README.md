@@ -63,7 +63,7 @@ Los HTTP headers son la parte central de los HTTP requests y responses, y transm
 
 ### QueryString
 
-Las Query String o cadenas de consultas es un término que se utiliza para hacer referencia a una interacción con una base de datos. Además, es la parte de una URL que contiene los datos que deben pasar a las aplicaciones web.
+- Las Query String o cadenas de consultas es un término que se utiliza para hacer referencia a una interacción con una base de datos. Además, es la parte de una URL que contiene los datos que deben pasar a las aplicaciones web.
 
 ### ResponseCode
 
@@ -172,9 +172,19 @@ SOAP posibilita la comunicación entre un cliente, como el navegador de Internet
 
 ### RESTFUL
 
-Una API de REST, o API de RESTful, es una interfaz de programación de aplicaciones (API o API web) que se ajusta a los límites de la arquitectura REST y permite la interacción con los servicios web de RESTful. El informático Roy Fielding es el creador de la transferencia de estado representacional (REST).
+- Una API de REST, o API de RESTful, es una interfaz de programación de aplicaciones (API o API web) que se ajusta a los límites de la arquitectura REST y permite la interacción con los servicios web de RESTful. El informático Roy Fielding es el creador de la transferencia de estado representacional (REST).
 
-¿Qué son los headers en un request? ¿Para qué se utiliza el key Content-type en un header?
+### Headers en un request
+
+- Los headers en un request contienen toda la información básica de la petición, a la espera de una RESPONSE
+
+### Key Content-type en un header
+
+_Content-Type_ es la propiedad de cabecera (header) usada para indicar el  media type (en-US) del recurso. _Content-Type_ dice al cliente que tipo de contenido será retornado.
+> En solicitudes (tales como POST o PUT), el cliente indica al servidor que tipo de dato es enviado actualmente.
+
+    Content-Type: text/html; charset=utf-8
+    Content-Type: multipart/form-data; boundary=something
 
 ## Ejercicio 3
 
