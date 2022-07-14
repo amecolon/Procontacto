@@ -1,6 +1,6 @@
 # América Colón | Evaluación práctica
 ## Ejercicio 1 Instalar aplicaciones
-
+  
 <p align="CENTER">
   <img src="https://user-images.githubusercontent.com/95835522/179066249-ef885dfe-397d-405b-b5e3-bbd409849a22.png" />
 </p>
