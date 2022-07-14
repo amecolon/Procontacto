@@ -1,24 +1,56 @@
-# Evaluación práctica | PROCONTACTO
-## Ejercicio 1: Instalar aplicaciones
+# América Colón | Evaluación práctica
+## Ejercicio 1 Instalar aplicaciones
 
-- Instalar el IDE Visual Studio Code:
+- IDE Visual Studio Code:
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/95835522/178878567-b2b33b4d-4d6e-4ab8-bed2-059451e59f2c.png" />
 </p>
 
-- Instalar GIT y GIT Bash:
+- GIT y GIT Bash:
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/95835522/178879767-c9f38bbd-0926-4684-8df3-3cdac058d08c.png" />
 </p>
 
-## Ejercicio 2
+## Ejercicio 2 Conceptos estándar
 
-### Protocolo de transferencia de hipertexto
+### SERVIDOR HTTP
 
-¿Qué es un servidor HTTP?
-¿Qué son los verbos HTTP? Mencionar los más conocidos
+Un servidor web se define como un software que hace uso del HTTP _(Hypertext Transfer Protocol)_ para almacenar los archivos que forman los sitios web y mostrarlos a los usuarios cuando estos lo solicitan.
+
+> Algunas empresas, cuentan con un servidor web propio. No obstante, en la gran mayoría de ocasiones, tanto particulares como compañías, optan por contratar este servicio a un proveedor de alojamiento web.
+
+### VERBOS HTTP
+
+*GET*
+
+- Solicita una representación de un recurso específico. Las peticiones que usan el método GET sólo deben recuperar datos.
+
+*HEAD*
+-  Pide una respuesta idéntica a la de una petición GET, pero sin el cuerpo de la respuesta.
+
+*POST*
+- Se utiliza para enviar una entidad a un recurso en específico, causando a menudo un cambio en el estado o efectos secundarios en el servidor.
+
+*PUT*
+- Reemplaza todas las representaciones actuales del recurso de destino con la carga útil de la petición.
+
+*DELETE*
+- Borra un recurso en específico.
+
+*CONNECT*
+- Establece un túnel hacia el servidor identificado por el recurso.
+
+*OPTIONS*
+- Es utilizado para describir las opciones de comunicación para el recurso de destino.
+
+*TRACE*
+- Realiza una prueba de bucle de retorno de mensaje a lo largo de la ruta al recurso de destino.
+
+*PATCH*
+- Es utilizado para aplicar modificaciones parciales a un recurso.
+
 ¿Qué es un request y un response en una comunicación HTTP? ¿Qué son los headers?
 ¿Qué es un queryString? (En el contexto de una url)
 ¿Qué es el responseCode? ¿Qué significado tiene los posibles valores devueltos?
