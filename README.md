@@ -50,17 +50,51 @@ Un servidor web se define como un software que hace uso del HTTP _(Hypertext Tra
 
 Veamos un ejemplo:
 
-     Un sitio web que empieza con la URL http:// es entrado en un navegador web de la computadora del cliente.
+- Un sitio web que empieza con la URL http:// es entrado en un navegador web de la computadora del cliente.
+- El navegador envía un request al servidor web que está hospedado en el website.
+- El servidor web regresa una respuesta como un página de HTML, o algún otro formato de documento al navegador 
+- El navegador despliega el response del servidor al usuario. 
+     
+Los HTTP headers son la parte central de los HTTP requests y responses, y transmiten información acerca del navegador del cliente, de la página solicitada, del servidor, etc
 
-     El navegador envía un request al servidor web que está hospedado en el website.
-   
-     El servidor web regresa una respuesta como un página de HTML, o algún otro formato de documento al navegador
-    
-     El navegador despliega el response del servidor al usuario. 
+<p align="CENTER">
+  <img src="https://user-images.githubusercontent.com/95835522/179069851-bc0595fa-e8ce-4292-a252-1b51725184f2.png" />
+</p>
 
-¿Qué es un request y un response en una comunicación HTTP? ¿Qué son los headers?
-¿Qué es un queryString? (En el contexto de una url)
-¿Qué es el responseCode? ¿Qué significado tiene los posibles valores devueltos?
+### QueryString
+
+Las Query String o cadenas de consultas es un término que se utiliza para hacer referencia a una interacción con una base de datos. Además, es la parte de una URL que contiene los datos que deben pasar a las aplicaciones web.
+
+### ResponseCode
+
+Los códigos de estado de respuesta HTTP indican si se ha completado satisfactoriamente una solicitud HTTP específica.
+
+1. Respuestas informativas (100–199)
+2. Respuestas satisfactorias (200–299)
+3. Redirecciones (300–399)
+4. Errores de los clientes (400–499)
+5. Errores de los servidores (500–599)
+
+### Data en GET y POST
+
+*GET*
+
+Con el método GET, los datos que se envían al servidor se escriben en la misma dirección URL. En la ventana del navegador. Toda la información introducida por el usuario (los llamados “parámetros URL”) se transmiten tan abiertamente como el URL en sí mismo. Esto tiene ventajas y desventajas.
+
+*POST*
+
+El método POST introduce los parámetros en la solicitud HTTP para el servidor. Por ello, no quedan visibles para el usuario. Además, la capacidad del método POST es ilimitada.
+
+| | GET | POST |
+|---| ----- |----- |
+| Visibilidad | Visible en la barra de direcciones para el usuario | Invisible para el usuario|
+| Marcadores e historiales de navegación | Los parámetros URL se guardan junto al URL | Los parámetros URL no se guardan junto al URL |
+| Caché y registro del servidor	| Los parámetros URL se guardan sin cifrar. | Los parámetros URL no se guardan automáticamente |
+| Comportamiento al actualizar el navegador o retroceder | Los parámetros URL no se envían de nuevo | El navegador advierte de que los datos del formulario se enviarán de nuevo | 
+| Tipo de datos | Solo caracteres ASCII | Caracteres ASCII y datos binarios |
+| Longitud de datos | Limitado al máximo del URL (2048 caracteres) | Ilimitado |
+
+
 ¿Cómo se envía la data en un Get y cómo en un POST?
 ¿Qué verbo http utiliza el navegador cuando accedemos a una página?
 Explicar brevemente qué son las estructuras de datos JSON y XML dando ejemplo de
