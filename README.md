@@ -51,6 +51,19 @@ Un servidor web se define como un software que hace uso del HTTP _(Hypertext Tra
 *PATCH*
 - Es utilizado para aplicar modificaciones parciales a un recurso.
 
+### Request y response en HTTP
+  HTTP se basa en un modelo solicitud / respuesta, La comunicación de datos empieza con un request enviado del cliente, y termina con la respuesta del servidor web.
+
+Veamos un ejemplo:
+
+     Un sitio web que empieza con la URL http:// es entrado en un navegador web de la computadora del cliente.
+
+     El navegador envía un request al servidor web que está hospedado en el website.
+   
+     El servidor web regresa una respuesta como un página de HTML, o algún otro formato de documento al navegador
+    
+     El navegador despliega el response del servidor al usuario. 
+
 ¿Qué es un request y un response en una comunicación HTTP? ¿Qué son los headers?
 ¿Qué es un queryString? (En el contexto de una url)
 ¿Qué es el responseCode? ¿Qué significado tiene los posibles valores devueltos?
