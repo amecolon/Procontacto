@@ -1,16 +1,8 @@
 # América Colón | Evaluación práctica
 ## Ejercicio 1 Instalar aplicaciones
 
-- IDE Visual Studio Code:
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/95835522/178878567-b2b33b4d-4d6e-4ab8-bed2-059451e59f2c.png" />
-</p>
-
-- GIT y GIT Bash:
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/95835522/178879767-c9f38bbd-0926-4684-8df3-3cdac058d08c.png" />
+<p align="CENTER">
+  <img src="https://user-images.githubusercontent.com/95835522/179066249-ef885dfe-397d-405b-b5e3-bbd409849a22.png" />
 </p>
 
 ## Ejercicio 2 Conceptos estándar
@@ -20,6 +12,7 @@
 Un servidor web se define como un software que hace uso del HTTP _(Hypertext Transfer Protocol)_ para almacenar los archivos que forman los sitios web y mostrarlos a los usuarios cuando estos lo solicitan.
 
 > Algunas empresas, cuentan con un servidor web propio. No obstante, en la gran mayoría de ocasiones, tanto particulares como compañías, optan por contratar este servicio a un proveedor de alojamiento web.
+
 
 ### VERBOS HTTP
 
@@ -50,6 +43,7 @@ Un servidor web se define como un software que hace uso del HTTP _(Hypertext Tra
 
 *PATCH*
 - Es utilizado para aplicar modificaciones parciales a un recurso.
+
 
 ### Request y response en HTTP
   HTTP se basa en un modelo solicitud / respuesta, La comunicación de datos empieza con un request enviado del cliente, y termina con la respuesta del servidor web.
