@@ -220,14 +220,14 @@ https://trailblazer.me/id/amecolon
 ### Conceptos
 | Nombre | Concepto | 
 | ------ | ------- | 
-| Lead | El lead es un cliente potencial que demostró interés en un producto o servicio ofrecido por la marca por medio de la interacción con contenidos y otros materiales  |
-| Account | Representa una cuenta de cliente individual, una organización o un socio. Almacenan todos los detalles de la cuenta relacionados con su negocio, como Clientes y Competidores.
-| Contact
-Opportunity
-Product
-PriceBook
-Quote
-Asset
-Case
-Article
+| Lead | Representa un prospecto o cliente potencial.  |
+| Account | Representa una cuenta individual, que es una organización o persona involucrada con su negocio (como clientes, competidores y socios). |
+| Contact | Representa un contacto, que es una persona asociada a una cuenta. |
+| Opportunity |  Representa una oportunidad, que es una venta o trato pendiente. |
+| Product | Productos son los elementos y servicios que distribuye a clientes. Cada producto puede existir en múltiples listas de precios con precios diferentes |
+| PriceBook | Es una lista de productos y sus precios |
+| Quote | Representa una cotización, que es un registro que muestra los precios propuestos para productos y servicios.  |
+| Asset | Representa un artículo de valor comercial, como un producto vendido por su empresa o un competidor, que ha comprado un cliente. |
+| Case | Representa un caso, que es un asunto o problema del cliente. |
+| Article | Los artículos de conocimientos son documentos de información. Los artículos pueden incluir información sobre procesos, como cómo restablecer su producto a sus valores predeterminados o preguntas más frecuentes.|
 
