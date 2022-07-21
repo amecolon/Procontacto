@@ -206,3 +206,28 @@ Paso 3:
 
 ¿Qué diferencias se observan entre las llamadas el punto 1 y 3?
 En el primero no aparecian mis datos y en tercero despues de hacer un post y regresarlo ya estoy dentro de la base de datos.
+
+## Ejercicio 4
+
+### Módulos de Trailhead
+
+Link del perfil público:
+
+https://trailblazer.me/id/amecolon
+
+## Ejercicio 5
+
+### Conceptos
+| Nombre | Concepto | 
+| ------ | ------- | 
+| Lead | El lead es un cliente potencial que demostró interés en un producto o servicio ofrecido por la marca por medio de la interacción con contenidos y otros materiales  |
+| Account | Representa una cuenta de cliente individual, una organización o un socio. Almacenan todos los detalles de la cuenta relacionados con su negocio, como Clientes y Competidores.
+| Contact
+Opportunity
+Product
+PriceBook
+Quote
+Asset
+Case
+Article
+
