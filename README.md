@@ -238,4 +238,47 @@ https://trailblazer.me/id/amecolon
   <img src="https://user-images.githubusercontent.com/95835522/180331391-236d7291-a3c6-4228-a31b-57e6cca7f1a4.jpg" />
 </p>
 
+## Ejercicio 6
+
+### Soluciones de Salesforce
+
+¿Qué es Salesforce?
+¿Qué es Sales Cloud?
+¿Qué es Service Cloud?
+¿Qué es Health Cloud?
+¿Qué es Marketing Cloud?
+
+Funcionalidades de Salesforce
+A.	¿Qué es un RecordType?
+B.	¿Qué es un ReportType?
+C.	¿Qué es un Page Layout?
+D.	¿Qué es un Compact Layout?
+E.	¿Qué es un Perfil?
+F.	¿Qué es un Rol?
+G.	¿Qué es un Validation Rule?
+H.	¿Qué diferencia hay entre una relación Master Detail y Lookup?
+I.	¿Qué es un Sandbox?
+J.	¿Qué es un ChangeSet?
+K.	¿Para qué sirve el import Wizard de Salesforce?
+L.	¿Para qué sirve la funcionalidad Web to Lead?
+M.	¿Para qué sirve la funcionalidad Web to Case?
+N.	¿Para qué sirve la funcionalidad Omnichannel?
+O.	¿Para qué sirve la funcionalidad Chatter?
+
+Conceptos generales
+A.	¿Qué significa SaaS?
+B.	¿Salesforce es Saas?
+C.	¿Qué significa que una solución sea Cloud?
+D.	¿Qué significa que una solución sea On-Premise?
+E.	¿Qué es un pipeline de ventas?
+F.	¿Qué es un funnel de ventas?
+G.	¿Qué significa Customer Experience?
+H.	¿Qué significa omnicanalidad?
+I.	¿Qué significa que un negocio sea B2B?¿Qué significa que un negocio sea B2C?¿Qué es un KPI?
+J.	¿Qué es una API y en qué se diferencia de una Rest API?
+K.	¿Qué es un Proceso Batch?
+L.	¿Qué es Kanban?
+M.	¿Qué es un ERP? 
+N.	¿Salesforce es un ERP? 
+
 
