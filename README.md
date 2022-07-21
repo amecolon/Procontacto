@@ -218,6 +218,7 @@ https://trailblazer.me/id/amecolon
 ## Ejercicio 5
 
 ### Conceptos
+
 | Nombre | Concepto | 
 | ------ | ------- | 
 | Lead | Representa un prospecto o cliente potencial.  |
@@ -230,4 +231,11 @@ https://trailblazer.me/id/amecolon
 | Asset | Representa un artículo de valor comercial, como un producto vendido por su empresa o un competidor, que ha comprado un cliente. |
 | Case | Representa un caso, que es un asunto o problema del cliente. |
 | Article | Los artículos de conocimientos son documentos de información. Los artículos pueden incluir información sobre procesos, como cómo restablecer su producto a sus valores predeterminados o preguntas más frecuentes.|
+
+### Diagrama
+
+<p align="CENTER">
+  <img src="https://user-images.githubusercontent.com/95835522/180331391-236d7291-a3c6-4228-a31b-57e6cca7f1a4.jpg" />
+</p>
+
 
