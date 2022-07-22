@@ -247,7 +247,7 @@ https://trailblazer.me/id/amecolon
 
 -  ***¿Qué es Salesforce?***
  
-  Es una compañía de CRM que une empresas y clientes
+    Es una compañía de CRM que une empresas y clientes
 
 - ***¿Qué es Sales Cloud?***
 
@@ -329,20 +329,48 @@ https://trailblazer.me/id/amecolon
 
   Chatter facilita la conexión con las personas y la información que les es más relevante.
 
-Conceptos generales
-A.	¿Qué significa SaaS?
-B.	¿Salesforce es Saas?
-C.	¿Qué significa que una solución sea Cloud?
-D.	¿Qué significa que una solución sea On-Premise?
-E.	¿Qué es un pipeline de ventas?
-F.	¿Qué es un funnel de ventas?
-G.	¿Qué significa Customer Experience?
-H.	¿Qué significa omnicanalidad?
-I.	¿Qué significa que un negocio sea B2B?¿Qué significa que un negocio sea B2C?¿Qué es un KPI?
-J.	¿Qué es una API y en qué se diferencia de una Rest API?
-K.	¿Qué es un Proceso Batch?
-L.	¿Qué es Kanban?
-M.	¿Qué es un ERP? 
-N.	¿Salesforce es un ERP? 
+###Conceptos generales
+- ¿Qué significa SaaS?
+
+
+- ¿Salesforce es Saas?
+
+
+- ¿Qué significa que una solución sea Cloud?
+
+
+- ¿Qué significa que una solución sea On-Premise?
+
+
+- ¿Qué es un pipeline de ventas?
+
+
+- ¿Qué es un funnel de ventas?
+
+
+- ¿Qué significa Customer Experience?
+
+
+- ¿Qué significa omnicanalidad?
+
+
+- ¿Qué significa que un negocio sea B2B?¿Qué significa que un negocio sea B2C?¿Qué es un KPI?
+
+
+- ¿Qué es una API y en qué se diferencia de una Rest API?
+
+
+- ¿Qué es un Proceso Batch?
+
+
+- ¿Qué es Kanban?
+
+
+- ¿Qué es un ERP? 
+
+
+- ¿Salesforce es un ERP? 
+
+
 
 
