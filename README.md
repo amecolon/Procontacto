@@ -329,48 +329,70 @@ https://trailblazer.me/id/amecolon
 
   Chatter facilita la conexión con las personas y la información que les es más relevante.
 
-###Conceptos generales
+### Conceptos generales
 - ¿Qué significa SaaS?
 
-
+  El software como servicio (SaaS) es un modelo de entrega de software basado en la nube en el que el proveedor de la nube desarrolla y mantiene el software de las aplicaciones en la nube.
+  
 - ¿Salesforce es Saas?
 
+  Salesforce es una compañía de PaaS (Plataforma como Servicio), un concepto que nace como resultado de la aplicación al desarrollo de Software del modelo SaaS (Software como Servicio). Este modelo abarca el ciclo completo para desarrollar e implantar aplicaciones desde Internet.
 
 - ¿Qué significa que una solución sea Cloud?
 
+  La computación en la nube (cloud computing) es una tecnología que permite acceso remoto a softwares, almacenamiento de archivos y procesamiento de datos por medio de Internet
 
 - ¿Qué significa que una solución sea On-Premise?
 
+  on-premise se refiere a que la instalación del programa se ha realizado de manera local, en las instalaciones de la empresa y obligando a esta a crear una infraestructura informática compleja con servidores que requieren mantenimiento.
 
 - ¿Qué es un pipeline de ventas?
 
+  El pipeline de ventas es, precisamente, el proceso de actividades y estrategias que necesita un vendedor para acelerar el ciclo de ventas, transformando clientes potenciales (aquellos que acaban de conocer tu marca o servicio) en clientes
 
 - ¿Qué es un funnel de ventas?
 
+  El concepto de embudo de ventas representa todo el proceso de cierre de un negocio, desde el momento de la captación hasta la conversión final.
 
 - ¿Qué significa Customer Experience?
 
+  El Customer Experience, también llamada experiencia del cliente o CX, es la experiencia que formará tu consumidor en función de sus interacciones con tu marca, que pueden ser positivas o negativas.
 
 - ¿Qué significa omnicanalidad?
 
+  Es una estrategia de comunicación utilizada para estar en contacto con los prospectos o clientes a través de diferentes canales (email, redes sociales, sitio web, etc.).
 
-- ¿Qué significa que un negocio sea B2B?¿Qué significa que un negocio sea B2C?¿Qué es un KPI?
+- ¿Qué significa que un negocio sea B2B?
 
+  El término B2B nace de la expresión en inglés “business to business” (empresa a empresa). Es decir, son las ventas de una empresa a otra.
+
+- ¿Qué significa que un negocio sea B2C?
+
+  B2C es el acrónimo en inglés de “business to consumer” (empresa a consumidor). Es decir, es un modelo de negocio en el que una empresa le vende de forma directa al consumidor final.
+
+
+- ¿Qué es un KPI?
+
+  Un KPI, conocido también como indicador clave o medidor de desempeño o indicador clave de rendimiento, es una medida del nivel del rendimiento de un proceso. El valor del indicador está directamente relacionado con un objetivo fijado previa y normalmente se expresa en valores porcentuales.
 
 - ¿Qué es una API y en qué se diferencia de una Rest API?
 
+  Por lo general, la API sigue el formato de aplicación a aplicación, mientras que REST sigue una estructura diferente: Cliente-Servidor. El cliente y el servidor están evolucionando de forma independiente, proporcionando más flexibilidad en el trabajo.
 
 - ¿Qué es un Proceso Batch?
 
+  Los sistemas Batch se basan en la producción por lotes, que no es más que la producción de una cantidad limitada de un tipo de producto cada vez. Cada lote recibe una identificación, como número o código. Además, cada lote exige un plan de producción específico.
 
 - ¿Qué es Kanban?
 
+  La metodología Kanban es un sistema de producción tan eficiente como efectivo. Forma parte de las metodologías ágiles y su objetivo es gestionar la realización de las tareas hasta su finalización.
 
 - ¿Qué es un ERP? 
 
+  Enterprise Resource Planning (ERP) es un tipo de software que las organizaciones utilizan para gestionar las actividades empresariales diarias, como la contabilidad, el aprovisionamiento, la gestión de proyectos, la gestión de riesgos, el cumplimiento y las operaciones de la cadena de suministro.
 
 - ¿Salesforce es un ERP? 
 
+  Salesforce Billing complementa las plataformas de planificación de recursos de negocio (ERP) mediante la conversión de los datos de la gestión de procesos desde el prospecto hasta el pedido de Salesforce CPQ en datos de transacciones.
 
-
-
+### Ejercicio 7
