@@ -396,3 +396,21 @@ https://trailblazer.me/id/amecolon
   Salesforce Billing complementa las plataformas de planificación de recursos de negocio (ERP) mediante la conversión de los datos de la gestión de procesos desde el prospecto hasta el pedido de Salesforce CPQ en datos de transacciones.
 
 ### Ejercicio 7
+
+![image](https://user-images.githubusercontent.com/95835522/180348953-847ca0c8-a2ae-4ac6-90cb-3176c183336b.png)
+
+### Proceso
+
+![image](https://user-images.githubusercontent.com/95835522/180349637-a6f86f4e-0f6a-40cc-8ea7-1125817bc9ed.png)
+
+![image](https://user-images.githubusercontent.com/95835522/180350230-4ca041df-6b82-463f-8b72-9edec4b1bf0c.png)
+
+![image](https://user-images.githubusercontent.com/95835522/180351671-7db6e1cd-ad67-4264-b8da-b2c91bf8c7ac.png)
+
+![image](https://user-images.githubusercontent.com/95835522/180351808-6019bf02-6ef0-487e-8e90-41bc8a06a461.png)
+
+![image](https://user-images.githubusercontent.com/95835522/180352438-4d6a6679-dcc8-4023-81e5-5ceb1b5387ae.png)
+
+
+
+
