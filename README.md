@@ -245,28 +245,89 @@ https://trailblazer.me/id/amecolon
 
 ### Soluciones de Salesforce
 
-¿Qué es Salesforce?
-¿Qué es Sales Cloud?
-¿Qué es Service Cloud?
-¿Qué es Health Cloud?
-¿Qué es Marketing Cloud?
+-  ***¿Qué es Salesforce?***
+ 
+  Es una compañía de CRM que une empresas y clientes
 
-Funcionalidades de Salesforce
-A.	¿Qué es un RecordType?
-B.	¿Qué es un ReportType?
-C.	¿Qué es un Page Layout?
-D.	¿Qué es un Compact Layout?
-E.	¿Qué es un Perfil?
-F.	¿Qué es un Rol?
-G.	¿Qué es un Validation Rule?
-H.	¿Qué diferencia hay entre una relación Master Detail y Lookup?
-I.	¿Qué es un Sandbox?
-J.	¿Qué es un ChangeSet?
-K.	¿Para qué sirve el import Wizard de Salesforce?
-L.	¿Para qué sirve la funcionalidad Web to Lead?
-M.	¿Para qué sirve la funcionalidad Web to Case?
-N.	¿Para qué sirve la funcionalidad Omnichannel?
-O.	¿Para qué sirve la funcionalidad Chatter?
+- ***¿Qué es Sales Cloud?***
+
+  Es una aplicación de Salesforce, basada en la nube, de CRM. Incluye herramientas para la gestión de contactos, la automatización de la fuerza de ventas, la previsión de ventas, así como la productividad.
+
+- ***¿Qué es Service Cloud?***
+
+  Es una solución completa de atención al cliente creada especialmente para dar soporte a los clientes a cualquier hora y en cualquier lugar
+
+- ***¿Qué es Health Cloud?***
+
+  Conecta sin problemas a los equipos de atención médica con una vista integral de cada paciente en una sola plataforma, que cumple con la HIPAA.
+  
+- ***¿Qué es Marketing Cloud?***
+
+  es un proveedor de software y servicios de análisis y automatización de marketing digital.
+
+
+### Funcionalidades de Salesforce
+
+- **¿Qué es un RecordType?**
+
+  Nos permiten definir diferentes Business Process, Pages Layouts y Picklist Values en un determinado objeto. Así mismo, los Record Types nos ayudan a mostrar distintos tipos de información según el perfil del usuario.
+  
+- **¿Qué es un ReportType?**
+
+  Indica el tipo de informe al que pertenece la plantilla seleccionada previamente por el creador de la misma.
+
+- **¿Qué es un Page Layout?**
+
+  Los diseños de página controlan el diseño y la organización de botones, campos, s-controls, Visualforce, enlaces personalizados y listas relacionadas en páginas de registros de objetos.
+
+- **¿Qué es un Compact Layout?**
+
+  Un diseño compacto muestra los campos clave de un registro de un vistazo en la aplicación móvil Salesforce, Lightning Experience y en las integraciones de Outlook y Gmail.
+  
+- **¿Qué es un Perfil?**
+
+  Los perfiles definen cómo acceden los usuarios a objetos y datos y qué pueden hacer en la aplicación.
+
+- **¿Qué es un Rol?**
+
+  Es aquella función que determina los niveles de acceso que tienen los usuarios.
+
+- **¿Qué es un Validation Rule?**
+
+  Las reglas de validación verifican que los datos que un usuario ingresa en un registro cumplen con los estándares que usted especifica antes de que el usuario pueda guardar el registro.
+
+- **¿Qué diferencia hay entre una relación Master Detail y Lookup?**
+
+  En lookup, ambos objetos no comparten propiedades entre ellos, lo que significa que están débilmente acoplados.
+  
+  En Master-detail, ambos objetos comparten propiedades entre sí, lo que significa que están estrechamente acoplados.
+
+- **¿Qué es un Sandbox?**
+  Un Sandbox es una copia de su organización en un entorno aislado que puede usar para distintos fines, como pruebas y capacitación.
+
+- **¿Qué es un ChangeSet?**
+
+  Un conjunto de cambios entrantes es un conjunto de cambios que se ha enviado desde otra organización de Salesforce a la organización en la que ha iniciado sesión. Un conjunto de cambios se debe implementar para que los cambios surtan efecto.
+
+- **¿Para qué sirve el import Wizard de Salesforce?**
+
+  Se puede utilizar para importar un máximo de 50,000 registros
+  
+- **¿Para qué sirve la funcionalidad Web to Lead?**
+
+  Sirve para definir una campaña o fuente de clientes potenciales colocando valores dentro de los campos ocultos.
+
+- **¿Para qué sirve la funcionalidad Web to Case?**
+
+  Para ver cómo afectan al proceso de ventas., responder a casos satisface a sus clientes y mejora su marca.
+  
+- **¿Para qué sirve la funcionalidad Omnichannel?**
+
+  Omni- canal es una función personalizable y flexible que se puede configurar de forma declarativa en Salesforce, es decir, sin necesidad de escribir código. OmniCanal ayuda al enrutamiento automático de diferentes tipos de elementos de trabajo (como casos y clientes potenciales) a los agentes.
+
+- **¿Para qué sirve la funcionalidad Chatter?**
+
+  Chatter facilita la conexión con las personas y la información que les es más relevante.
 
 Conceptos generales
 A.	¿Qué significa SaaS?
