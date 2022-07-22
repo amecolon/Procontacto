@@ -215,6 +215,9 @@ Link del perfil público:
 
 https://trailblazer.me/id/amecolon
 
+![image](https://user-images.githubusercontent.com/95835522/180337819-f66718c1-085e-4c10-83f5-f5036492dc69.png)
+
+
 ## Ejercicio 5
 
 ### Conceptos
